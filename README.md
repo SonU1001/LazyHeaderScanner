@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-yellow?style=for-the-badge)
 # LazyHeaderScanner
 
 **LazyHeaderScanner** is a lightweight, Python-based tool designed for **passive reconnaissance** and security auditing. It automates the analysis of HTTP security headers to identify missing defensive configurations and potential information leaks.
